@@ -1,0 +1,32 @@
+{
+  "name": "one-vue",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/movoin/one-vue",
+  "author": "Allen Luo <movoin@gmail.com> (http://movoin.com)",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/movoin/one-vue.git"
+  },
+  "keywords": [
+    "one",
+    "vue",
+    "ui",
+    "css",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/movoin/one-vue/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.1.3",
+    "clean-css-cli": "^4.2.1",
+    "node-sass": "^4.9.3",
+    "postcss-cli": "^6.0.0"
+  }
+}
